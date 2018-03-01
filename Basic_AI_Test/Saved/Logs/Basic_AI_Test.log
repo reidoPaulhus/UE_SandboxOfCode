@@ -1,0 +1,1227 @@
+﻿Log file open, 02/28/18 19:40:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Basic_AI_Test
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-424666696) SRandInit(-424666696).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.167224
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.01-02.40.25:379][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.01-02.40.25:379][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.01-02.40.25:391][  0]LogInit: Computer: INSYTHOR
+[2018.03.01-02.40.25:391][  0]LogInit: User: Tyler
+[2018.03.01-02.40.25:391][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.01-02.40.25:391][  0]LogInit: High frequency timer resolution =3.326091 MHz
+[2018.03.01-02.40.25:391][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.01-02.40.25:391][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.01-02.40.25:391][  0]LogMemory: Process Physical Memory: 272.09 MB used, 272.09 MB peak
+[2018.03.01-02.40.25:391][  0]LogMemory: Process Virtual Memory: 269.68 MB used, 269.68 MB peak
+[2018.03.01-02.40.25:392][  0]LogMemory: Physical Memory: 6618.71 MB used,  9704.23 MB free, 16322.93 MB total
+[2018.03.01-02.40.25:392][  0]LogMemory: Virtual Memory: 677.38 MB used,  9704.23 MB free, 134217728.00 MB total
+[2018.03.01-02.40.25:609][  0]LogInit: Using OS detected language (en-US).
+[2018.03.01-02.40.25:609][  0]LogInit: Using OS detected locale (en-CA).
+[2018.03.01-02.40.25:648][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.01-02.40.26:053][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.01-02.40.27:648][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.01-02.40.27:694][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 770' (Feature Level 11_0)
+[2018.03.01-02.40.27:694][  0]LogD3D11RHI:       2017/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.01-02.40.27:696][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.01-02.40.27:696][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.01-02.40.27:696][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.01-02.40.27:700][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.01-02.40.27:700][  0]LogD3D11RHI:     GPU DeviceId: 0x1184 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.01-02.40.27:700][  0]LogWindows: EnumDisplayDevices:
+[2018.03.01-02.40.27:701][  0]LogWindows:    0. 'NVIDIA GeForce GTX 770' (P:1 D:1)
+[2018.03.01-02.40.27:701][  0]LogWindows:    1. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2018.03.01-02.40.27:701][  0]LogWindows:    2. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2018.03.01-02.40.27:701][  0]LogWindows:    3. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2018.03.01-02.40.27:701][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.01-02.40.27:701][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 770
+[2018.03.01-02.40.27:701][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.01-02.40.27:701][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.01-02.40.27:701][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2018.03.01-02.40.27:726][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.01-02.40.27:738][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.01-02.40.27:786][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Intermediate/Shaders/WorkingDirectory/4552/).
+[2018.03.01-02.40.27:786][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tyler/AppData/Local/Temp/UnrealShaderWorkingDir/DBB53F8D47E3168E18F16DBDDFC36BB3/'.
+[2018.03.01-02.40.27:786][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.01-02.40.29:058][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.01-02.40.29:104][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.01-02.40.29:150][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.01-02.40.29:197][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.01-02.40.29:245][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.01-02.40.29:290][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.01-02.40.29:334][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.01-02.40.29:379][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.01-02.40.29:419][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.01-02.40.29:463][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.01-02.40.29:508][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.01-02.40.29:552][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.01-02.40.29:599][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.01-02.40.29:643][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.01-02.40.29:730][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.01-02.40.29:730][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.01-02.40.29:778][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.01-02.40.29:813][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.01-02.40.29:898][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.01-02.40.29:921][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.01-02.40.29:966][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.01-02.40.30:013][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.01-02.40.30:058][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.01-02.40.30:105][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.01-02.40.30:105][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.01-02.40.30:515][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.01-02.40.30:577][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Tyler/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.01-02.40.30:577][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tyler/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.01-02.40.30:577][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.01-02.40.30:577][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.01-02.40.30:578][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.01-02.40.30:578][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.01-02.40.30:597][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.01-02.40.30:609][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tyler/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.01-02.40.30:618][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.01-02.40.30:618][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.01-02.40.30:632][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.01-02.40.30:632][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.01-02.40.31:053][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.01-02.40.31:366][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.01-02.40.31:402][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.01-02.40.31:402][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.01-02.40.31:402][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.01-02.40.31:402][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.01-02.40.31:402][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.01-02.40.31:425][  0]LogNetVersion: Basic_AI_Test , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1916854229)
+[2018.03.01-02.40.31:570][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2018.03.01-02.40.32:018][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.054118 seconds
+[2018.03.01-02.40.32:023][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.01-02.40.32:023][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.01-02.40.32:023][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.01-02.40.32:071][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.01-02.40.35:667][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.01-02.40.35:712][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.01-02.40.36:317][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.01-02.40.36:684][  0]SourceControl: Source control is disabled
+[2018.03.01-02.40.36:684][  0]SourceControl: Source control is disabled
+[2018.03.01-02.40.36:730][  0]SourceControl: Source control is disabled
+[2018.03.01-02.40.36:775][  0]SourceControl: Source control is disabled
+[2018.03.01-02.40.37:477][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.01-02.40.37:706][  0]LogOcInput: OculusInput pre-init called
+[2018.03.01-02.40.37:956][  0]LogEngine: Initializing Engine...
+[2018.03.01-02.40.37:958][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.01-02.40.38:130][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.01-02.40.38:130][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.01-02.40.38:243][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.01-02.40.38:262][  0]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-02.40.38:272][  0]LogInit: FAudioDevice initialized.
+[2018.03.01-02.40.38:349][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Tyler/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.01-02.40.38:361][  0]LogInit: Texture streaming: Enabled
+[2018.03.01-02.40.38:449][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.01-02.40.38:593][  0]LogInit: Transaction tracking system initialized
+[2018.03.01-02.40.38:883][  0]BlueprintLog: New page: Editor Load
+[2018.03.01-02.40.39:762][  0]LocalizationService: Localization service is disabled
+[2018.03.01-02.40.40:492][  0]LogConsoleResponse: Display: 
+[2018.03.01-02.40.40:768][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.01-02.40.40:768][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.01-02.40.40:768][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.01-02.40.40:907][  0]LogFileCache: Scanning file cache for directory 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/' took 0.01s
+[2018.03.01-02.40.41:945][  0]SourceControl: Source control is disabled
+[2018.03.01-02.40.41:949][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.18/FeaturePacks/StarterContent.upack)
+[2018.03.01-02.40.41:953][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.03.01-02.40.41:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.03.01-02.40.41:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.03.01-02.40.41:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.03.01-02.40.41:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.03.01-02.40.41:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.03.01-02.40.41:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.03.01-02.40.41:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.03.01-02.40.42:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.03.01-02.40.42:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.03.01-02.40.42:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.03.01-02.40.42:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.03.01-02.40.42:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.03.01-02.40.42:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.03.01-02.40.42:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.03.01-02.40.42:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.03.01-02.40.42:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.03.01-02.40.42:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.03.01-02.40.42:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Fire01.uasset"
+[2018.03.01-02.40.42:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.03.01-02.40.42:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.03.01-02.40.42:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.03.01-02.40.42:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Light01.uasset"
+[2018.03.01-02.40.42:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.03.01-02.40.42:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Light02.uasset"
+[2018.03.01-02.40.42:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.03.01-02.40.42:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.03.01-02.40.42:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.03.01-02.40.42:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.03.01-02.40.42:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.03.01-02.40.42:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.03.01-02.40.42:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.03.01-02.40.42:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.03.01-02.40.42:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.03.01-02.40.42:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Steam01.uasset"
+[2018.03.01-02.40.42:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.03.01-02.40.42:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.03.01-02.40.42:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.03.01-02.40.42:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.03.01-02.40.42:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.03.01-02.40.42:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.03.01-02.40.42:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.03.01-02.40.42:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.03.01-02.40.42:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.03.01-02.40.42:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.03.01-02.40.42:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.03.01-02.40.42:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.03.01-02.40.42:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.03.01-02.40.42:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.03.01-02.40.42:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.03.01-02.40.42:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.03.01-02.40.42:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.03.01-02.40.42:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.03.01-02.40.42:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.03.01-02.40.42:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.03.01-02.40.42:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.03.01-02.40.42:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.03.01-02.40.42:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Maps/StarterMap.umap"
+[2018.03.01-02.40.42:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.03.01-02.40.42:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.03.01-02.40.42:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.03.01-02.40.42:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.03.01-02.40.42:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.03.01-02.40.42:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.03.01-02.40.42:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.03.01-02.40.42:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.03.01-02.40.42:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.03.01-02.40.42:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.03.01-02.40.42:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.03.01-02.40.42:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.03.01-02.40.42:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.03.01-02.40.42:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.03.01-02.40.42:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.03.01-02.40.42:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.03.01-02.40.42:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.03.01-02.40.42:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.03.01-02.40.42:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.03.01-02.40.42:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.03.01-02.40.42:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.03.01-02.40.42:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.03.01-02.40.42:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.03.01-02.40.42:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.03.01-02.40.42:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.03.01-02.40.42:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.03.01-02.40.42:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.03.01-02.40.42:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.03.01-02.40.42:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.03.01-02.40.42:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.03.01-02.40.42:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.03.01-02.40.42:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.03.01-02.40.42:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.03.01-02.40.42:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.03.01-02.40.42:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.03.01-02.40.42:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.03.01-02.40.42:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.03.01-02.40.42:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.03.01-02.40.42:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.03.01-02.40.42:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.03.01-02.40.42:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.03.01-02.40.42:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.03.01-02.40.42:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.03.01-02.40.42:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.03.01-02.40.42:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.03.01-02.40.42:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.03.01-02.40.42:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.03.01-02.40.42:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.03.01-02.40.42:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.03.01-02.40.42:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.03.01-02.40.42:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.03.01-02.40.42:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.03.01-02.40.42:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.03.01-02.40.42:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.03.01-02.40.42:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.03.01-02.40.42:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.03.01-02.40.42:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.03.01-02.40.42:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.03.01-02.40.42:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.03.01-02.40.42:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.03.01-02.40.42:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.03.01-02.40.42:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.03.01-02.40.42:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.03.01-02.40.42:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.03.01-02.40.42:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.03.01-02.40.42:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_Door.uasset"
+[2018.03.01-02.40.42:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.03.01-02.40.42:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.03.01-02.40.42:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.03.01-02.40.42:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.03.01-02.40.42:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.03.01-02.40.42:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.03.01-02.40.42:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.03.01-02.40.42:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.03.01-02.40.42:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.03.01-02.40.42:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.03.01-02.40.42:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.03.01-02.40.42:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.03.01-02.40.42:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.03.01-02.40.42:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.03.01-02.40.42:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.03.01-02.40.42:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.03.01-02.40.42:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.03.01-02.40.42:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.03.01-02.40.42:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.03.01-02.40.42:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.03.01-02.40.42:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.03.01-02.40.42:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.03.01-02.40.42:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.03.01-02.40.42:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.03.01-02.40.42:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.03.01-02.40.42:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.03.01-02.40.43:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.03.01-02.40.43:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.03.01-02.40.43:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.03.01-02.40.43:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.03.01-02.40.43:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.03.01-02.40.43:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.03.01-02.40.43:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.03.01-02.40.43:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.03.01-02.40.43:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.03.01-02.40.43:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.03.01-02.40.43:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.03.01-02.40.43:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.03.01-02.40.43:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.03.01-02.40.43:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.03.01-02.40.43:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.03.01-02.40.43:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.03.01-02.40.43:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.03.01-02.40.43:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.03.01-02.40.43:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.03.01-02.40.43:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.03.01-02.40.43:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.03.01-02.40.43:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.03.01-02.40.43:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.03.01-02.40.43:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.03.01-02.40.43:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.03.01-02.40.43:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.03.01-02.40.43:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.03.01-02.40.43:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.03.01-02.40.43:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.03.01-02.40.43:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.03.01-02.40.43:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.03.01-02.40.43:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.03.01-02.40.43:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.03.01-02.40.43:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.03.01-02.40.43:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.03.01-02.40.43:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.03.01-02.40.43:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.03.01-02.40.43:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.03.01-02.40.43:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.03.01-02.40.43:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.03.01-02.40.43:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.03.01-02.40.43:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.03.01-02.40.43:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.03.01-02.40.43:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.03.01-02.40.43:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.03.01-02.40.43:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.03.01-02.40.43:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.03.01-02.40.43:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.03.01-02.40.43:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.03.01-02.40.43:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.03.01-02.40.43:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.03.01-02.40.43:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.03.01-02.40.43:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.03.01-02.40.43:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.03.01-02.40.43:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.03.01-02.40.43:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.03.01-02.40.43:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.03.01-02.40.43:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.03.01-02.40.43:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.03.01-02.40.43:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.03.01-02.40.43:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.03.01-02.40.43:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.03.01-02.40.43:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.03.01-02.40.43:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.03.01-02.40.43:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.03.01-02.40.43:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.03.01-02.40.43:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.03.01-02.40.43:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.03.01-02.40.43:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.03.01-02.40.43:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.03.01-02.40.43:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.03.01-02.40.43:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.03.01-02.40.43:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.03.01-02.40.43:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.03.01-02.40.43:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.03.01-02.40.43:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.03.01-02.40.43:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.03.01-02.40.43:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.03.01-02.40.43:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.03.01-02.40.43:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.03.01-02.40.43:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.03.01-02.40.43:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.03.01-02.40.43:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.03.01-02.40.43:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.03.01-02.40.43:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.03.01-02.40.43:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.03.01-02.40.43:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.03.01-02.40.43:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.03.01-02.40.43:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.03.01-02.40.43:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.03.01-02.40.43:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.03.01-02.40.43:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.03.01-02.40.43:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.03.01-02.40.44:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.03.01-02.40.44:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.03.01-02.40.44:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.03.01-02.40.44:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.03.01-02.40.44:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.03.01-02.40.44:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.03.01-02.40.44:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.03.01-02.40.44:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.03.01-02.40.44:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.03.01-02.40.44:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.03.01-02.40.44:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.03.01-02.40.44:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.03.01-02.40.44:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.03.01-02.40.44:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.03.01-02.40.44:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.03.01-02.40.44:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.03.01-02.40.44:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.03.01-02.40.44:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.03.01-02.40.44:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.03.01-02.40.44:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.03.01-02.40.44:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.03.01-02.40.44:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.03.01-02.40.44:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.03.01-02.40.44:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.03.01-02.40.44:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.03.01-02.40.44:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.03.01-02.40.44:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.03.01-02.40.44:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.03.01-02.40.44:361][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.03.01-02.40.44:405][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.03.01-02.40.44:423][  0]LogSavePackage: Save=12.67ms
+[2018.03.01-02.40.44:423][  0]LogSavePackage: Moving 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/Floor_400x4000062F99C4F0262D4A89C9092F19973A1.tmp' to 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.03.01-02.40.44:428][  0]LogSavePackage: Display: Finished SavePackage D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.03.01-02.40.44:428][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.03.01-02.40.44:431][  0]Cmd: MAP LOAD FILE="D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.01-02.40.44:431][  0]LightingResults: New page: Lighting Build
+[2018.03.01-02.40.44:469][  0]MapCheck: New page: Map Check
+[2018.03.01-02.40.44:469][  0]LightingResults: New page: Lighting Build
+[2018.03.01-02.40.44:779][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.03.01-02.40.44:922][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.03.01-02.40.45:074][  0]LogMaterial: Missing cached shader map for material RampMaterial, compiling. 
+[2018.03.01-02.40.45:139][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.01-02.40.45:147][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.01-02.40.45:162][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.01-02.40.45:241][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.696ms to complete.
+[2018.03.01-02.40.45:241][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.810
+[2018.03.01-02.40.45:448][  0]LogCollectionManager: Loaded 0 collections in 0.001376 seconds
+[2018.03.01-02.40.45:553][  0]LogFileCache: Scanning file cache for directory 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/Collections/' took 0.01s
+[2018.03.01-02.40.45:553][  0]LogFileCache: Scanning file cache for directory 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/Developers/Tyler/Collections/' took 0.01s
+[2018.03.01-02.40.45:553][  0]LogFileCache: Scanning file cache for directory 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/Collections/' took 0.01s
+[2018.03.01-02.40.45:553][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.01-02.40.45:565][  0]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2363 classes and 519 folders.
+[2018.03.01-02.40.45:668][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.03.01-02.40.46:080][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.01-02.40.46:146][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.03.01-02.40.46:173][  0]LogSlate: Took 0.005215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.01-02.40.46:180][  0]LogSlate: Took 0.004778 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.01-02.40.46:193][  0]LogSlate: Took 0.005777 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.01-02.40.46:297][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.03.01-02.40.46:350][  0]LogSlate: Took 0.005080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.01-02.40.46:522][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.03.01-02.40.46:522][  0]LogLoad: (Engine Initialization) Total time: 23.50 seconds
+[2018.03.01-02.40.46:522][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.01-02.40.46:522][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.01-02.40.46:750][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.01-02.40.46:836][  1]LogAssetRegistry: Asset discovery search completed in 15.2886 seconds
+[2018.03.01-02.40.46:839][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.03.01-02.40.46:840][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
+[2018.03.01-02.41.48:377][700]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.03.01-02.41.48:507][701]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.03.01-02.41.48:628][702]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.03.01-02.41.48:719][703]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.03.01-02.43.08:702][696]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.01-02.43.08:947][696]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.03.01-02.43.09:495][696]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.01-02.43.09:556][696]LogSlate: Took 0.003432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.01-02.43.09:688][697]LogSlate: Took 0.003298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.01-02.46.15:411][509]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.01-02.48.11:226][301]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.03.01-02.48.34:874][983]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.03.01-02.48.52:933][ 37]LogEditorViewport: Clicking on Actor (LMB): Basic_AI_C (Basic_AI)
+[2018.03.01-02.49.02:265][117]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.03.01-02.49.05:120][434]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.01-02.49.05:210][434]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.49.05:210][434]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.01-02.49.05:211][434]LogPlayLevel: [PlayLevel] Compiling Basic_AI before play...
+[2018.03.01-02.49.05:543][434]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2018.03.01-02.49.05:647][434]LogPlayLevel: PlayLevel: Blueprint regeneration took 437 ms (2 blueprints)
+[2018.03.01-02.49.05:648][434]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 28, 2018, 12:49:05 PM)
+[2018.03.01-02.49.05:648][434]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.01-02.49.05:663][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015222s)
+[2018.03.01-02.49.05:664][434]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.01-02.49.05:664][434]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2018.03.01-02.49.05:664][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016888s)
+[2018.03.01-02.49.05:718][434]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-02.49.05:724][434]LogInit: FAudioDevice initialized.
+[2018.03.01-02.49.05:764][434]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.01-02.49.05:767][434]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.28-19.49.05
+[2018.03.01-02.49.05:768][434]LogWorld: Bringing up level for play took: 0.002250
+[2018.03.01-02.49.05:808][434]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.01-02.49.05:809][434]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.627
+[2018.03.01-02.49.05:809][434]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.49.16:225][667]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.49.16:261][667]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.49.22:038][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.01-02.51.20:321][  0]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.03.01-02.51.21:103][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.01-02.51.21:121][ 82]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.51.21:121][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.01-02.51.21:121][ 82]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 28, 2018, 12:51:21 PM)
+[2018.03.01-02.51.21:121][ 82]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.01-02.51.21:137][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015989s)
+[2018.03.01-02.51.21:138][ 82]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.01-02.51.21:138][ 82]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2018.03.01-02.51.21:138][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017133s)
+[2018.03.01-02.51.21:169][ 82]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-02.51.21:175][ 82]LogInit: FAudioDevice initialized.
+[2018.03.01-02.51.21:206][ 82]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.01-02.51.21:209][ 82]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.28-19.51.21
+[2018.03.01-02.51.21:210][ 82]LogWorld: Bringing up level for play took: 0.002447
+[2018.03.01-02.51.21:211][ 82]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.029
+[2018.03.01-02.51.21:211][ 82]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.51.21:267][ 82]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.03.01-02.51.26:209][642]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.51.26:257][642]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.52.32:158][218]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.03.01-02.52.33:787][402]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.01-02.52.33:801][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.52.33:801][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.01-02.52.33:801][402]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 28, 2018, 12:52:33 PM)
+[2018.03.01-02.52.33:801][402]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.01-02.52.33:816][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014902s)
+[2018.03.01-02.52.33:816][402]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.01-02.52.33:817][402]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2018.03.01-02.52.33:817][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015896s)
+[2018.03.01-02.52.33:845][402]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-02.52.33:851][402]LogInit: FAudioDevice initialized.
+[2018.03.01-02.52.33:885][402]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.01-02.52.33:888][402]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.28-19.52.33
+[2018.03.01-02.52.33:889][402]LogWorld: Bringing up level for play took: 0.002744
+[2018.03.01-02.52.33:890][402]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.709
+[2018.03.01-02.52.33:891][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.52.39:011][997]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.52.39:059][997]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.53.06:571][149]LogSavePackage: Save=168.05ms
+[2018.03.01-02.53.06:571][149]LogSavePackage: Moving 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/ThirdPersonExampleMap_Auto1AB3B5B534F5D3B710795A4B35B3D3F85.tmp' to 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.03.01-02.53.06:573][149]LogSavePackage: Display: Finished SavePackage D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.03.01-02.53.06:578][149]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.205
+[2018.03.01-02.53.06:578][149]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.205
+[2018.03.01-02.53.06:582][149]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Basic_AI] ([1] browsable assets)...
+[2018.03.01-02.53.06:626][149]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Basic_AI.Basic_AI]
+[2018.03.01-02.53.06:626][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Basic_AI]
+[2018.03.01-02.53.06:649][149]LogSavePackage: Save=22.08ms
+[2018.03.01-02.53.06:650][149]LogSavePackage: Moving 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/Basic_AI_Auto1FFDA524B447AC1B5691A09966DCAC7B7.tmp' to 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Basic_AI_Auto1.uasset'
+[2018.03.01-02.53.06:650][149]LogSavePackage: Display: Finished SavePackage D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Basic_AI_Auto1.uasset
+[2018.03.01-02.53.06:650][149]LogFileHelpers: Auto-saving content packages took 0.070
+[2018.03.01-02.54.14:562][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2018.03.01-02.54.17:773][204]Cmd: TRANSACTION UNDO
+[2018.03.01-02.54.17:773][204]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.01-02.54.19:812][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2018.03.01-02.54.21:470][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2018.03.01-02.54.22:557][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2018.03.01-02.54.22:953][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.01-02.54.27:156][279]Cmd: TRANSACTION UNDO
+[2018.03.01-02.54.27:156][279]LogEditorTransaction: Undo Move Actors
+[2018.03.01-02.54.28:044][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.01-02.55.33:039][916]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.01-02.55.33:054][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.55.33:054][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.01-02.55.33:054][916]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 28, 2018, 12:55:33 PM)
+[2018.03.01-02.55.33:055][916]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.01-02.55.33:071][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016276s)
+[2018.03.01-02.55.33:072][916]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.01-02.55.33:072][916]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2018.03.01-02.55.33:072][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017751s)
+[2018.03.01-02.55.33:104][916]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-02.55.33:110][916]LogInit: FAudioDevice initialized.
+[2018.03.01-02.55.33:141][916]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.01-02.55.33:144][916]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.28-19.55.33
+[2018.03.01-02.55.33:144][916]LogWorld: Bringing up level for play took: 0.002042
+[2018.03.01-02.55.33:145][916]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.037
+[2018.03.01-02.55.33:145][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.55.49:268][847]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.55.49:301][847]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.57.21:054][715]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Basic_AI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Basic_AI_2) from referencer (K2Node_Literal /Game/ThirdPersonBP/Blueprints/Basic_AI.Basic_AI:EventGraph.K2Node_Literal_0).  Import failed...
+[2018.03.01-02.57.21:054][715]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'Basic_AI_C'"/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Basic_AI_2"''
+[2018.03.01-02.57.21:055][715]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TargetPoint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.TargetPoint2_4) from referencer (K2Node_Literal /Game/ThirdPersonBP/Blueprints/Basic_AI.Basic_AI:EventGraph.K2Node_Literal_2).  Import failed...
+[2018.03.01-02.57.21:055][715]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'TargetPoint'"/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.TargetPoint2_4"''
+[2018.03.01-02.57.29:215][680]BlueprintLog: New page: Compile Basic_AI
+[2018.03.01-02.57.29:220][680]LogBlueprint: Warning: [Compiler Basic_AI] Node  Unknown  is not referencing a valid level actor
+[2018.03.01-02.57.29:220][680]LogBlueprint: Warning: [Compiler Basic_AI] Node  Unknown  is not referencing a valid level actor
+[2018.03.01-02.57.29:707][680]LogBlueprint: Warning: [Compiler Basic_AI] [1026.68] Compile of Basic_AI successful, but with 2 Warning(s) [in 491 ms] (/Game/ThirdPersonBP/Blueprints/Basic_AI.Basic_AI)
+[2018.03.01-02.57.33:506][132]LogEditorTransaction: Undo Paste clipboard contents
+[2018.03.01-02.57.36:725][516]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.03.01-02.57.48:875][915]LogSavePackage: Save=159.41ms
+[2018.03.01-02.57.48:875][915]LogSavePackage: Moving 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/ThirdPersonExampleMap287557BD429E40DA89BA25B1FAAD5D73.tmp' to 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.03.01-02.57.48:880][915]LogSavePackage: Display: Finished SavePackage D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.03.01-02.57.48:898][915]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.265
+[2018.03.01-02.57.49:601][999]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.03.01-02.57.52:132][280]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.01-02.57.52:144][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.57.52:144][280]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.01-02.57.52:145][280]LogPlayLevel: [PlayLevel] Compiling Basic_AI before play...
+[2018.03.01-02.57.52:542][280]LogPlayLevel: PlayLevel: Blueprint regeneration took 397 ms (1 blueprints)
+[2018.03.01-02.57.52:542][280]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 28, 2018, 12:57:52 PM)
+[2018.03.01-02.57.52:542][280]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.01-02.57.52:559][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016783s)
+[2018.03.01-02.57.52:560][280]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.01-02.57.52:561][280]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2018.03.01-02.57.52:561][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018466s)
+[2018.03.01-02.57.52:589][280]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-02.57.52:595][280]LogInit: FAudioDevice initialized.
+[2018.03.01-02.57.52:626][280]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.01-02.57.52:628][280]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.28-19.57.52
+[2018.03.01-02.57.52:629][280]LogWorld: Bringing up level for play took: 0.002255
+[2018.03.01-02.57.52:629][280]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.447
+[2018.03.01-02.57.52:630][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.57.56:693][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.57.56:728][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.58.28:881][582]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.03.01-02.58.30:504][765]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.03.01-02.58.31:201][837]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.01-02.58.31:215][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.58.31:215][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.01-02.58.31:215][837]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 28, 2018, 12:58:31 PM)
+[2018.03.01-02.58.31:215][837]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.01-02.58.31:232][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016469s)
+[2018.03.01-02.58.31:233][837]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.01-02.58.31:233][837]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2018.03.01-02.58.31:233][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017967s)
+[2018.03.01-02.58.31:268][837]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-02.58.31:274][837]LogInit: FAudioDevice initialized.
+[2018.03.01-02.58.31:309][837]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.01-02.58.31:312][837]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.28-19.58.31
+[2018.03.01-02.58.31:312][837]LogWorld: Bringing up level for play took: 0.002717
+[2018.03.01-02.58.31:314][837]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.132
+[2018.03.01-02.58.31:314][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.58.42:112][113]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-02.58.42:159][113]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.01.55:138][812]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2018.03.01-03.01.55:155][812]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.03.01-03.02.14:962][171]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2018.03.01-03.02.14:978][171]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.03.01-03.02.17:893][520]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Actors/Volumes/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors#Volume Types
+[2018.03.01-03.03.45:575][654]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.01-03.03.45:587][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.03.45:587][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.01-03.03.45:587][654]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 28, 2018, 1:03:45 PM)
+[2018.03.01-03.03.45:587][654]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.01-03.03.45:604][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017014s)
+[2018.03.01-03.03.45:605][654]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.01-03.03.45:605][654]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2018.03.01-03.03.45:605][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018294s)
+[2018.03.01-03.03.45:638][654]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-03.03.45:644][654]LogInit: FAudioDevice initialized.
+[2018.03.01-03.03.45:677][654]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.01-03.03.45:679][654]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.28-20.03.45
+[2018.03.01-03.03.45:679][654]LogWorld: Bringing up level for play took: 0.002222
+[2018.03.01-03.03.45:680][654]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.499
+[2018.03.01-03.03.45:680][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.04.07:037][211]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.04.07:078][211]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.04.08:086][304]LogSavePackage: Save=158.09ms
+[2018.03.01-03.04.08:087][304]LogSavePackage: Moving 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/ThirdPersonExampleMap2C25CA30410EC66D11B3D2961C80DA4F.tmp' to 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.03.01-03.04.08:089][304]LogSavePackage: Display: Finished SavePackage D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.03.01-03.04.08:274][304]LogSavePackage: Save=156.32ms
+[2018.03.01-03.04.08:274][304]LogSavePackage: Moving 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/ThirdPersonExampleMap_BuiltData36AD1A544D20EE9F7AA51C85F7506D8B.tmp' to 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.03.01-03.04.08:275][304]LogSavePackage: Display: Finished SavePackage D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.03.01-03.14.08:458][246]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.019
+[2018.03.01-03.14.08:460][246]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Basic_AI] ([1] browsable assets)...
+[2018.03.01-03.14.08:503][246]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Basic_AI.Basic_AI]
+[2018.03.01-03.14.08:503][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Basic_AI]
+[2018.03.01-03.14.08:526][246]LogSavePackage: Save=20.63ms
+[2018.03.01-03.14.08:526][246]LogSavePackage: Moving 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/Basic_AI_Auto2559DD51D4AA17BD35820CFB9BEE50D4F.tmp' to 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Basic_AI_Auto2.uasset'
+[2018.03.01-03.14.08:526][246]LogSavePackage: Display: Finished SavePackage D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Basic_AI_Auto2.uasset
+[2018.03.01-03.14.08:527][246]LogFileHelpers: Auto-saving content packages took 0.068
+[2018.03.01-03.23.44:086][127]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UNavigationSystem::SimpleMoveToLocation' [Element not found.]
+[2018.03.01-03.24.19:565][218]LogSavePackage: Save=155.26ms
+[2018.03.01-03.24.19:565][218]LogSavePackage: Moving 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/ThirdPersonExampleMap_Auto3315B19DB4A827B3F68B0AD81710462D2.tmp' to 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.03.01-03.24.19:566][218]LogSavePackage: Display: Finished SavePackage D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2018.03.01-03.24.19:568][218]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.187
+[2018.03.01-03.24.19:568][218]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.187
+[2018.03.01-03.25.09:959][749]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.03.01-03.25.50:445][592]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.03.01-03.26.58:620][686]BlueprintLog: New page: Compile Basic_AI
+[2018.03.01-03.26.59:930][779]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.01-03.26.59:943][779]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.26.59:943][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.01-03.26.59:943][779]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 28, 2018, 1:26:59 PM)
+[2018.03.01-03.26.59:943][779]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.01-03.26.59:959][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016166s)
+[2018.03.01-03.26.59:960][779]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.01-03.26.59:960][779]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2018.03.01-03.26.59:960][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017486s)
+[2018.03.01-03.26.59:993][779]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-03.26.59:999][779]LogInit: FAudioDevice initialized.
+[2018.03.01-03.27.00:032][779]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.01-03.27.00:035][779]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.28-20.27.00
+[2018.03.01-03.27.00:035][779]LogWorld: Bringing up level for play took: 0.002415
+[2018.03.01-03.27.00:037][779]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.855
+[2018.03.01-03.27.00:037][779]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.27.46:066][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.27.46:109][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.28.06:747][ 92]BlueprintLog: New page: Compile Basic_AI
+[2018.03.01-03.28.08:172][215]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.01-03.28.08:185][215]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.28.08:185][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.01-03.28.08:185][215]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 28, 2018, 1:28:08 PM)
+[2018.03.01-03.28.08:186][215]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.01-03.28.08:203][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017054s)
+[2018.03.01-03.28.08:203][215]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.01-03.28.08:204][215]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2018.03.01-03.28.08:204][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018234s)
+[2018.03.01-03.28.08:233][215]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-03.28.08:239][215]LogInit: FAudioDevice initialized.
+[2018.03.01-03.28.08:272][215]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.01-03.28.08:275][215]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.28-20.28.08
+[2018.03.01-03.28.08:276][215]LogWorld: Bringing up level for play took: 0.002585
+[2018.03.01-03.28.08:277][215]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.096
+[2018.03.01-03.28.08:278][215]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.28.38:428][827]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.28.38:472][827]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.30.02:651][325]LogSavePackage: Save=157.87ms
+[2018.03.01-03.30.02:651][325]LogSavePackage: Moving 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/ThirdPersonExampleMap5B504982414372E0D24C31927810E972.tmp' to 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.03.01-03.30.02:654][325]LogSavePackage: Display: Finished SavePackage D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.03.01-03.30.02:794][325]LogSavePackage: Save=109.92ms
+[2018.03.01-03.30.02:795][325]LogSavePackage: Moving 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/ThirdPersonExampleMap_BuiltDataE169CEEF406B77F6EC4224886C896963.tmp' to 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.03.01-03.30.02:796][325]LogSavePackage: Display: Finished SavePackage D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.03.01-03.30.03:463][381]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.01-03.30.03:474][381]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.30.03:474][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.01-03.30.03:474][381]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 28, 2018, 1:30:03 PM)
+[2018.03.01-03.30.03:474][381]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.01-03.30.03:490][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015617s)
+[2018.03.01-03.30.03:490][381]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.01-03.30.03:491][381]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2018.03.01-03.30.03:491][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017117s)
+[2018.03.01-03.30.03:522][381]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-03.30.03:528][381]LogInit: FAudioDevice initialized.
+[2018.03.01-03.30.03:559][381]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.01-03.30.03:562][381]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.28-20.30.03
+[2018.03.01-03.30.03:562][381]LogWorld: Bringing up level for play took: 0.002426
+[2018.03.01-03.30.03:563][381]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.381
+[2018.03.01-03.30.03:563][381]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.30.08:371][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.30.08:404][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.30.14:891][715]Cmd: SELECT NONE
+[2018.03.01-03.30.15:553][794]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.03.01-03.30.16:262][874]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.01-03.30.16:273][874]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.30.16:273][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.01-03.30.16:273][874]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 28, 2018, 1:30:16 PM)
+[2018.03.01-03.30.16:273][874]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.01-03.30.16:288][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014944s)
+[2018.03.01-03.30.16:289][874]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.01-03.30.16:289][874]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2018.03.01-03.30.16:289][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016167s)
+[2018.03.01-03.30.16:318][874]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-03.30.16:324][874]LogInit: FAudioDevice initialized.
+[2018.03.01-03.30.16:353][874]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.01-03.30.16:356][874]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.28-20.30.16
+[2018.03.01-03.30.16:356][874]LogWorld: Bringing up level for play took: 0.002112
+[2018.03.01-03.30.16:357][874]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.825
+[2018.03.01-03.30.16:357][874]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.30.43:452][115]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.30.43:484][115]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.01-03.39.17:217][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Basic_AI" FILE="D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/ThirdPersonBP/Blueprints/Basic_AI.uasset" SILENT=true
+[2018.03.01-03.39.17:240][ 74]LogSavePackage: Save=19.29ms
+[2018.03.01-03.39.17:240][ 74]LogSavePackage: Moving 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/Basic_AI9078F19C44A4FDAC362C2491A0DAE89A.tmp' to 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/ThirdPersonBP/Blueprints/Basic_AI.uasset'
+[2018.03.01-03.39.17:244][ 74]LogSavePackage: Display: Finished SavePackage D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/ThirdPersonBP/Blueprints/Basic_AI.uasset
+[2018.03.01-03.39.17:539][ 75]Cmd: QUIT_EDITOR
+[2018.03.01-03.39.18:551][ 75]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.01-03.39.18:563][ 75]LogExit: Preparing to exit.
+[2018.03.01-03.39.18:873][ 75]LogExit: Editor shut down
+[2018.03.01-03.39.18:882][ 75]LogExit: Transaction tracking system shut down
+[2018.03.01-03.39.19:066][ 75]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.01-03.39.19:067][ 75]LogDirectoryWatcher: A directory notification for 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/' was aborted.
+[2018.03.01-03.39.19:067][ 75]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.01-03.39.19:067][ 75]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.01-03.39.19:067][ 75]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.01-03.39.19:067][ 75]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.01-03.39.19:067][ 75]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.01-03.39.19:147][ 75]LogExit: Object subsystem successfully closed.
+[2018.03.01-03.39.19:160][ 75]LogD3D11RHI: Shutdown
+[2018.03.01-03.39.19:160][ 75]LogD3D11RHI: CleanupD3DDevice
+[2018.03.01-03.39.19:173][ 75]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.01-03.39.19:189][ 75]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2018.03.01-03.39.19:189][ 75]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.03.01-03.39.19:189][ 75]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.03.01-03.39.19:189][ 75]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.03.01-03.39.19:189][ 75]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.03.01-03.39.19:189][ 75]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.01-03.39.19:190][ 75]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.03.01-03.39.19:190][ 75]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.03.01-03.39.19:190][ 75]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.03.01-03.39.19:190][ 75]LogDirectoryWatcher: A directory notification for 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/Collections/' was aborted.
+[2018.03.01-03.39.19:190][ 75]LogDirectoryWatcher: A directory notification for 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Content/Developers/Tyler/Collections/' was aborted.
+[2018.03.01-03.39.19:190][ 75]LogDirectoryWatcher: A directory notification for 'D:/Tyler/UE_SandboxOfCode/Basic_AI_Test/Saved/Collections/' was aborted.
+[2018.03.01-03.39.19:190][ 75]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.03.01-03.39.19:190][ 75]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.03.01-03.39.19:190][ 75]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.03.01-03.39.19:190][ 75]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.03.01-03.39.19:190][ 75]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.03.01-03.39.19:191][ 75]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.03.01-03.39.19:192][ 75]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.03.01-03.39.19:192][ 75]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.03.01-03.39.19:192][ 75]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.03.01-03.39.19:192][ 75]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.03.01-03.39.19:192][ 75]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.03.01-03.39.19:192][ 75]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.03.01-03.39.19:269][ 75]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.03.01-03.39.19:270][ 75]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.03.01-03.39.19:270][ 75]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.03.01-03.39.19:270][ 75]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.03.01-03.39.19:270][ 75]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.03.01-03.39.19:270][ 75]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.03.01-03.39.19:270][ 75]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.03.01-03.39.19:270][ 75]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.03.01-03.39.19:323][ 75]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.03.01-03.39.19:323][ 75]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.03.01-03.39.19:323][ 75]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.03.01-03.39.19:323][ 75]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.03.01-03.39.19:323][ 75]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.03.01-03.39.19:323][ 75]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.03.01-03.39.19:323][ 75]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.03.01-03.39.19:323][ 75]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.03.01-03.39.19:323][ 75]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.03.01-03.39.19:323][ 75]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.03.01-03.39.19:329][ 75]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.03.01-03.39.19:330][ 75]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.01-03.39.19:482][ 75]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.01-03.39.19:483][ 75]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.01-03.39.19:483][ 75]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.01-03.39.19:483][ 75]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.01-03.39.19:483][ 75]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.01-03.39.19:483][ 75]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.01-03.39.19:483][ 75]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.01-03.39.19:483][ 75]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.01-03.39.19:483][ 75]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.01-03.39.19:483][ 75]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.01-03.39.19:483][ 75]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.01-03.39.19:483][ 75]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.01-03.39.19:483][ 75]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.01-03.39.19:483][ 75]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.01-03.39.19:483][ 75]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.01-03.39.19:484][ 75]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.01-03.39.19:484][ 75]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.01-03.39.19:484][ 75]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.01-03.39.19:484][ 75]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.01-03.39.19:484][ 75]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.01-03.39.19:484][ 75]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.01-03.39.19:484][ 75]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.01-03.39.19:484][ 75]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.01-03.39.19:484][ 75]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.01-03.39.19:484][ 75]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.01-03.39.19:484][ 75]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.01-03.39.19:586][ 75]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.01-03.39.19:686][ 75]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.01-03.39.19:686][ 75]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.01-03.39.19:686][ 75]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.01-03.39.19:686][ 75]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.01-03.39.19:686][ 75]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.01-03.39.19:686][ 75]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.01-03.39.19:687][ 75]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.01-03.39.19:687][ 75]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.01-03.39.19:687][ 75]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.01-03.39.19:687][ 75]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.01-03.39.19:689][ 75]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.01-03.39.19:689][ 75]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.01-03.39.19:689][ 75]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.01-03.39.19:689][ 75]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.01-03.39.19:689][ 75]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.01-03.39.19:689][ 75]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.01-03.39.19:696][ 75]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.01-03.39.19:696][ 75]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.01-03.39.19:696][ 75]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.01-03.39.19:696][ 75]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.01-03.39.19:696][ 75]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.01-03.39.19:696][ 75]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.01-03.39.19:696][ 75]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.01-03.39.19:696][ 75]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.01-03.39.19:696][ 75]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.01-03.39.19:696][ 75]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.01-03.39.19:696][ 75]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.01-03.39.19:696][ 75]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.01-03.39.19:697][ 75]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.01-03.39.19:697][ 75]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.01-03.39.19:697][ 75]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.01-03.39.19:697][ 75]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.01-03.39.19:699][ 75]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.01-03.39.19:699][ 75]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.01-03.39.19:699][ 75]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.01-03.39.19:699][ 75]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.01-03.39.19:699][ 75]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.01-03.39.19:699][ 75]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.01-03.39.19:699][ 75]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.01-03.39.19:699][ 75]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.01-03.39.19:700][ 75]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.01-03.39.19:700][ 75]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.01-03.39.19:700][ 75]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.01-03.39.19:700][ 75]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.01-03.39.19:700][ 75]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.01-03.39.19:700][ 75]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.01-03.39.19:700][ 75]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.01-03.39.19:700][ 75]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.01-03.39.19:700][ 75]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.01-03.39.19:725][ 75]LogDerivedDataCache: Shutdown
+[2018.03.01-03.39.19:725][ 75]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.01-03.39.19:725][ 75]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.01-03.39.19:725][ 75]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.01-03.39.19:725][ 75]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.01-03.39.19:725][ 75]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.01-03.39.19:725][ 75]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.01-03.39.19:725][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.01-03.39.19:725][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.01-03.39.19:725][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.01-03.39.19:725][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.01-03.39.19:725][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.01-03.39.19:726][ 75]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.01-03.39.19:726][ 75]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.01-03.39.19:726][ 75]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD0F4C320-40A7-CE96-CAE4-5CBE1D6422E6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=f421941c42eb45885b0faa9fa83eed35%7C3e2764f06f1947f5925efc0e892ed179%7Ce1988d8e-e2ad-458c-8785-0337dcecac2e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.01-03.39.19:733][ 75]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.01-03.39.19:735][ 75]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.01-03.39.19:735][ 75]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.01-03.39.19:735][ 75]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.01-03.39.19:735][ 75]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.01-03.39.19:735][ 75]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.01-03.39.19:735][ 75]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.01-03.39.19:735][ 75]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.01-03.39.19:736][ 75]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.01-03.39.19:736][ 75]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.01-03.39.19:736][ 75]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.01-03.39.19:736][ 75]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.01-03.39.19:736][ 75]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.01-03.39.19:736][ 75]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.01-03.39.19:736][ 75]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.01-03.39.19:736][ 75]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.01-03.39.19:736][ 75]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.01-03.39.19:736][ 75]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.01-03.39.19:736][ 75]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.01-03.39.19:739][ 75]LogExit: Exiting.
+[2018.03.01-03.39.19:751][ 75]Log file closed, 02/28/18 20:39:19
