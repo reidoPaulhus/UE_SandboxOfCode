@@ -1,0 +1,1171 @@
+﻿Log file open, 03/01/18 14:34:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SandboxOfCode
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1534032152) SRandInit(1534032152).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.158419
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.01-21.34.57:098][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.01-21.34.57:098][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.01-21.34.57:108][  0]LogInit: Computer: INSYTHOR
+[2018.03.01-21.34.57:108][  0]LogInit: User: Tyler
+[2018.03.01-21.34.57:108][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.01-21.34.57:108][  0]LogInit: High frequency timer resolution =3.326086 MHz
+[2018.03.01-21.34.57:109][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.01-21.34.57:109][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.01-21.34.57:109][  0]LogMemory: Process Physical Memory: 272.27 MB used, 272.27 MB peak
+[2018.03.01-21.34.57:109][  0]LogMemory: Process Virtual Memory: 269.69 MB used, 269.69 MB peak
+[2018.03.01-21.34.57:109][  0]LogMemory: Physical Memory: 3482.77 MB used,  12840.16 MB free, 16322.93 MB total
+[2018.03.01-21.34.57:109][  0]LogMemory: Virtual Memory: 677.38 MB used,  12840.16 MB free, 134217728.00 MB total
+[2018.03.01-21.34.57:223][  0]LogInit: Using OS detected language (en-US).
+[2018.03.01-21.34.57:223][  0]LogInit: Using OS detected locale (en-CA).
+[2018.03.01-21.34.57:225][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.01-21.34.57:571][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.01-21.34.57:779][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.01-21.34.57:821][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 770' (Feature Level 11_0)
+[2018.03.01-21.34.57:821][  0]LogD3D11RHI:       2017/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.01-21.34.57:822][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.01-21.34.57:823][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.01-21.34.57:823][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.01-21.34.57:827][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.01-21.34.57:827][  0]LogD3D11RHI:     GPU DeviceId: 0x1184 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.01-21.34.57:827][  0]LogWindows: EnumDisplayDevices:
+[2018.03.01-21.34.57:827][  0]LogWindows:    0. 'NVIDIA GeForce GTX 770' (P:1 D:1)
+[2018.03.01-21.34.57:827][  0]LogWindows:    1. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2018.03.01-21.34.57:827][  0]LogWindows:    2. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2018.03.01-21.34.57:828][  0]LogWindows:    3. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2018.03.01-21.34.57:828][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.01-21.34.57:828][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 770
+[2018.03.01-21.34.57:828][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.01-21.34.57:828][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.01-21.34.57:828][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2018.03.01-21.34.57:851][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.01-21.34.57:863][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.01-21.34.57:912][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Intermediate/Shaders/WorkingDirectory/10144/).
+[2018.03.01-21.34.57:912][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tyler/AppData/Local/Temp/UnrealShaderWorkingDir/85A993C44FE59C550EAABA99572A5DFE/'.
+[2018.03.01-21.34.57:912][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.01-21.34.58:681][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.01-21.34.58:723][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.01-21.34.58:766][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.01-21.34.58:808][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.01-21.34.58:850][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.01-21.34.58:893][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.01-21.34.58:935][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.01-21.34.58:976][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.01-21.34.59:012][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.01-21.34.59:054][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.01-21.34.59:095][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.01-21.34.59:137][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.01-21.34.59:178][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.01-21.34.59:219][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.01-21.34.59:301][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.01-21.34.59:301][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.01-21.34.59:343][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.01-21.34.59:375][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.01-21.34.59:452][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.01-21.34.59:475][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.01-21.34.59:516][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.01-21.34.59:558][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.01-21.34.59:602][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.01-21.34.59:646][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.01-21.34.59:646][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.01-21.35.00:016][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.01-21.35.00:080][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Tyler/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.01-21.35.00:080][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tyler/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.01-21.35.00:080][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Tyler/UE_SandboxOfCode/SandboxOfCode/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.01-21.35.00:080][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.01-21.35.00:080][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Tyler/UE_SandboxOfCode/SandboxOfCode/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.01-21.35.00:080][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.01-21.35.00:095][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.01-21.35.00:107][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tyler/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.01-21.35.00:116][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.01-21.35.00:117][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.01-21.35.00:117][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.01-21.35.00:117][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.01-21.35.00:425][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.01-21.35.00:688][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.01-21.35.00:720][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.01-21.35.00:720][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.01-21.35.00:720][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.01-21.35.00:720][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.01-21.35.00:720][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.01-21.35.00:742][  0]LogNetVersion: SandboxOfCode , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2850027107)
+[2018.03.01-21.35.00:876][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2018.03.01-21.35.01:290][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.049308 seconds
+[2018.03.01-21.35.01:296][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.01-21.35.01:296][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.01-21.35.01:296][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.01-21.35.01:337][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.01-21.35.03:503][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.01-21.35.03:538][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.01-21.35.04:172][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.01-21.35.04:513][  0]SourceControl: Source control is disabled
+[2018.03.01-21.35.05:708][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.01-21.35.05:918][  0]LogOcInput: OculusInput pre-init called
+[2018.03.01-21.35.06:146][  0]LogEngine: Initializing Engine...
+[2018.03.01-21.35.06:148][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.01-21.35.06:322][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.01-21.35.06:323][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.01-21.35.06:426][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.01-21.35.06:445][  0]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-21.35.06:456][  0]LogInit: FAudioDevice initialized.
+[2018.03.01-21.35.06:531][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Tyler/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.01-21.35.06:541][  0]LogInit: Texture streaming: Enabled
+[2018.03.01-21.35.06:620][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.01-21.35.06:721][  0]LogInit: Transaction tracking system initialized
+[2018.03.01-21.35.06:971][  0]BlueprintLog: New page: Editor Load
+[2018.03.01-21.35.07:667][  0]LocalizationService: Localization service is disabled
+[2018.03.01-21.35.08:263][  0]LogConsoleResponse: Display: 
+[2018.03.01-21.35.08:401][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.01-21.35.08:401][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.01-21.35.08:401][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.01-21.35.09:297][  0]LogFileCache: Scanning file cache for directory 'D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/' took 0.02s
+[2018.03.01-21.35.09:334][  0]Cmd: MAP LOAD FILE="D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.01-21.35.09:343][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.01-21.35.09:350][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.01-21.35.13:402][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.01-21.35.13:403][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.01-21.35.13:404][  0]LightingResults: New page: Lighting Build
+[2018.03.01-21.35.13:439][  0]MapCheck: New page: Map Check
+[2018.03.01-21.35.13:439][  0]LightingResults: New page: Lighting Build
+[2018.03.01-21.35.13:448][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.01-21.35.13:451][  0]LoadErrors: New page: New Map
+[2018.03.01-21.35.13:581][  0]LogCollectionManager: Loaded 0 collections in 0.000954 seconds
+[2018.03.01-21.35.13:657][  0]LogFileCache: Scanning file cache for directory 'D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Saved/Collections/' took 0.01s
+[2018.03.01-21.35.13:657][  0]LogFileCache: Scanning file cache for directory 'D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Developers/Tyler/Collections/' took 0.01s
+[2018.03.01-21.35.13:657][  0]LogFileCache: Scanning file cache for directory 'D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Collections/' took 0.01s
+[2018.03.01-21.35.13:657][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.01-21.35.13:668][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2372 classes and 524 folders.
+[2018.03.01-21.35.13:722][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.01-21.35.13:754][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.01-21.35.13:789][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.01-21.35.13:804][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.01-21.35.13:808][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.01-21.35.13:909][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.03.01-21.35.14:064][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.01-21.35.14:064][  0]LogLoad: (Engine Initialization) Total time: 18.66 seconds
+[2018.03.01-21.35.14:064][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.01-21.35.14:064][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.01-21.35.14:091][  0]SourceControl: On branch master
+[2018.03.01-21.35.14:091][  0]SourceControl: Your branch is ahead of 'origin/master' by 5 commits.
+[2018.03.01-21.35.14:091][  0]SourceControl:   (use "git push" to publish your local commits)
+[2018.03.01-21.35.14:091][  0]SourceControl: Changes not staged for commit:
+[2018.03.01-21.35.14:091][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.03.01-21.35.14:091][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.03.01-21.35.14:091][  0]SourceControl: 	modified:   SandboxOfCode/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.03.01-21.35.14:091][  0]SourceControl: 	modified:   SandboxOfCode/Intermediate/CachedAssetRegistry.bin
+[2018.03.01-21.35.14:091][  0]SourceControl: 	modified:   SandboxOfCode/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2018.03.01-21.35.14:091][  0]SourceControl: 	modified:   SandboxOfCode/Saved/AutoScreenshot.png
+[2018.03.01-21.35.14:091][  0]SourceControl: 	modified:   SandboxOfCode/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.03.01-21.35.14:091][  0]SourceControl: 	modified:   SandboxOfCode/Saved/Config/Windows/Engine.ini
+[2018.03.01-21.35.14:091][  0]SourceControl: 	modified:   SandboxOfCode/Saved/Logs/SandboxOfCode.log
+[2018.03.01-21.35.14:091][  0]SourceControl: Untracked files:
+[2018.03.01-21.35.14:091][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.03.01-21.35.14:091][  0]SourceControl: 	SandboxOfCode/Content/Blueprints/Tower+Projectile/
+[2018.03.01-21.35.14:091][  0]SourceControl: 	SandboxOfCode/Content/ThirdPersonBP/Blueprints/SuperHotCharacter2.uasset
+[2018.03.01-21.35.14:091][  0]SourceControl: 	SandboxOfCode/Saved/Config/CrashReportClient/UE4CC-Windows-38645D45475BF6C5C2906D9C567280B9/
+[2018.03.01-21.35.14:091][  0]SourceControl: 	SandboxOfCode/Saved/Config/CrashReportClient/UE4CC-Windows-7DFF804049A4F0FA5D2C3EBCEDB533DF/
+[2018.03.01-21.35.14:091][  0]SourceControl: 	SandboxOfCode/Saved/Logs/SandboxOfCode-backup-2018.03.01-14.31.43.log
+[2018.03.01-21.35.14:091][  0]SourceControl: 	SandboxOfCode/Saved/Logs/SandboxOfCode-backup-2018.03.01-14.34.56.log
+[2018.03.01-21.35.14:091][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.03.01-21.35.14:091][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.01-21.35.14:121][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.01-21.35.14:151][  1]LogAssetRegistry: Asset discovery search completed in 13.2976 seconds
+[2018.03.01-21.35.14:153][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.01-21.35.14:153][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000033 seconds (updated 0 objects)
+[2018.03.01-21.35.15:091][ 90]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.01-21.35.31:403][ 45]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.01-21.35.31:428][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:428][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/ThirdPersonBP/Blueprints/SuperHotCharacter2.uasset.
+[2018.03.01-21.35.31:428][ 45]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/SuperHotCharacter2 : Can't find file for asset. /Game/Blueprints/Box
+[2018.03.01-21.35.31:433][ 45]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.31:433][ 45]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Effects/Sobel/M_PostProcess_Base.uasset.
+[2018.03.01-21.35.31:433][ 45]LoadErrors: Error: /Game/Effects/Sobel/M_PostProcess_Base : Can't find file for asset. /Game/Effects/Sobel/SobelCollection
+[2018.03.01-21.35.31:433][ 45]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.31:433][ 45]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Effects/Sobel/M_PostProcess_Base.uasset.
+[2018.03.01-21.35.31:437][ 45]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.31:437][ 45]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/ThirdPersonBP/Blueprints/SuperHotCharacter2.uasset.
+[2018.03.01-21.35.31:437][ 45]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/SuperHotCharacter2 : Can't find file for asset. /Game/Effects/Sobel/SobelCollection
+[2018.03.01-21.35.31:437][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:437][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/ThirdPersonBP/Blueprints/SuperHotCharacter2.uasset.
+[2018.03.01-21.35.31:440][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:440][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Blueprints/Tower+Projectile/HUD_BP.uasset.
+[2018.03.01-21.35.31:440][ 45]LoadErrors: Error: /Game/Blueprints/Tower+Projectile/HUD_BP : Can't find file for asset. /Game/Blueprints/Box
+[2018.03.01-21.35.31:449][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:449][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Blueprints/Tower+Projectile/HUD_BP.uasset.
+[2018.03.01-21.35.31:449][ 45]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.31:449][ 45]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Blueprints/Tower+Projectile/HUD_BP.uasset.
+[2018.03.01-21.35.31:449][ 45]LoadErrors: Error: /Game/Blueprints/Tower+Projectile/HUD_BP : Can't find file for asset. /Game/Effects/Sobel/SobelCollection
+[2018.03.01-21.35.31:449][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:449][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Blueprints/Tower+Projectile/HUD_BP.uasset.
+[2018.03.01-21.35.31:449][ 45]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.31:449][ 45]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Blueprints/Tower+Projectile/HUD_BP.uasset.
+[2018.03.01-21.35.31:452][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:452][ 45]LoadErrors: Failed to load /Game/Blueprints/Box.Box_C Referenced by K2Node_CallFunction_2750
+[2018.03.01-21.35.31:452][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Blueprints/Tower+Projectile/HUD_BP.uasset.
+[2018.03.01-21.35.31:452][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:452][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Blueprints/Tower+Projectile/HUD_BP.uasset.
+[2018.03.01-21.35.31:454][ 45]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.31:454][ 45]LoadErrors: Failed to load /Game/Effects/Sobel/SobelCollection.SobelCollection Referenced by K2Node_CallMaterialParameterCollectionFunction_2
+[2018.03.01-21.35.31:454][ 45]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Blueprints/Tower+Projectile/HUD_BP.uasset.
+[2018.03.01-21.35.31:481][ 45]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.31:481][ 45]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/ThirdPersonBP/Blueprints/SuperHotCharacter2.uasset.
+[2018.03.01-21.35.31:537][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:538][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:538][ 45]LoadErrors: Error: /Game/Levels/Moving_Platforms : Can't find file for asset. /Game/Blueprints/Box
+[2018.03.01-21.35.31:538][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_X1'
+[2018.03.01-21.35.31:538][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_X1' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:538][ 45]LoadErrors: Error: /Game/Levels/Moving_Platforms : Can't find file for asset. /Game/Blueprints/Platform_X1
+[2018.03.01-21.35.31:538][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Y1'
+[2018.03.01-21.35.31:538][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Y1' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:538][ 45]LoadErrors: Error: /Game/Levels/Moving_Platforms : Can't find file for asset. /Game/Blueprints/Platform_Y1
+[2018.03.01-21.35.31:538][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:538][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:538][ 45]LoadErrors: Error: /Game/Levels/Moving_Platforms : Can't find file for asset. /Game/Blueprints/Platform_Z
+[2018.03.01-21.35.31:565][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_X1'
+[2018.03.01-21.35.31:565][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_X1' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:566][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Y1'
+[2018.03.01-21.35.31:566][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Y1' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:566][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:566][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:574][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:574][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:574][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_X1'
+[2018.03.01-21.35.31:574][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_X1' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:575][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Y1'
+[2018.03.01-21.35.31:575][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Y1' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:575][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:575][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:576][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:576][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:576][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:576][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:577][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_X1'
+[2018.03.01-21.35.31:577][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_X1' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:577][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Y1'
+[2018.03.01-21.35.31:577][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Y1' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:577][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:577][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap.
+[2018.03.01-21.35.31:578][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:578][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading NULL.
+[2018.03.01-21.35.31:578][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:578][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading NULL.
+[2018.03.01-21.35.31:579][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_X1'
+[2018.03.01-21.35.31:579][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_X1' while loading NULL.
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_X1'
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_X1' while loading NULL.
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Y1'
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Y1' while loading NULL.
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Y1'
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Y1' while loading NULL.
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:580][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:581][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:581][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:581][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:581][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading NULL.
+[2018.03.01-21.35.31:581][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:581][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading NULL.
+[2018.03.01-21.35.31:581][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:581][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading NULL.
+[2018.03.01-21.35.31:582][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:582][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading NULL.
+[2018.03.01-21.35.31:582][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_X1'
+[2018.03.01-21.35.31:582][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_X1' while loading NULL.
+[2018.03.01-21.35.31:582][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_X1'
+[2018.03.01-21.35.31:582][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_X1' while loading NULL.
+[2018.03.01-21.35.31:582][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Y1'
+[2018.03.01-21.35.31:582][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Y1' while loading NULL.
+[2018.03.01-21.35.31:582][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Y1'
+[2018.03.01-21.35.31:582][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Y1' while loading NULL.
+[2018.03.01-21.35.31:582][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:582][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:582][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:582][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:583][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:583][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:583][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:583][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:583][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:583][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:583][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:583][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:583][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_X1'
+[2018.03.01-21.35.31:583][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_X1' while loading NULL.
+[2018.03.01-21.35.31:583][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_X1'
+[2018.03.01-21.35.31:583][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_X1' while loading NULL.
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Y1'
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Y1' while loading NULL.
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Y1'
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Y1' while loading NULL.
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:584][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:585][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:592][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_X1'
+[2018.03.01-21.35.31:592][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_X1' while loading NULL.
+[2018.03.01-21.35.31:592][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_X1'
+[2018.03.01-21.35.31:593][ 45]LoadErrors: Failed to load /Game/Blueprints/Platform_X1.Platform_X1_C Referenced by PersistentLevel
+[2018.03.01-21.35.31:593][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_X1' while loading NULL.
+[2018.03.01-21.35.31:593][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:593][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:593][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:593][ 45]LoadErrors: Failed to load /Game/Blueprints/Platform_Z.Platform_Z_C Referenced by PersistentLevel
+[2018.03.01-21.35.31:593][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:593][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:593][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:593][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:593][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:593][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:593][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:593][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Z'
+[2018.03.01-21.35.31:594][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Z' while loading NULL.
+[2018.03.01-21.35.31:594][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:594][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading NULL.
+[2018.03.01-21.35.31:594][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.31:594][ 45]LoadErrors: Failed to load /Game/Blueprints/Box.Box_C Referenced by PersistentLevel
+[2018.03.01-21.35.31:594][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading NULL.
+[2018.03.01-21.35.31:594][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Y1'
+[2018.03.01-21.35.31:594][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Y1' while loading NULL.
+[2018.03.01-21.35.31:594][ 45]LogLinker: Warning: Can't find file '/Game/Blueprints/Platform_Y1'
+[2018.03.01-21.35.31:594][ 45]LoadErrors: Failed to load /Game/Blueprints/Platform_Y1.Platform_Y1_C Referenced by PersistentLevel
+[2018.03.01-21.35.31:594][ 45]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Platform_Y1' while loading NULL.
+[2018.03.01-21.35.31:595][ 45]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.31:595][ 45]LoadErrors: Failed to load /Game/Effects/Sobel/SobelCollection.SobelCollection Referenced by M_PostProcess_Base
+[2018.03.01-21.35.31:595][ 45]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading NULL.
+[2018.03.01-21.35.31:595][ 45]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.31:595][ 45]LoadErrors: Failed to load /Game/Effects/Sobel/SobelCollection.SobelCollection Referenced by MaterialExpressionCollectionParameter_0
+[2018.03.01-21.35.31:596][ 45]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading NULL.
+[2018.03.01-21.35.31:596][ 45]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.31:596][ 45]LoadErrors: Failed to load /Game/Effects/Sobel/SobelCollection.SobelCollection Referenced by MaterialExpressionCollectionParameter_1
+[2018.03.01-21.35.31:596][ 45]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading NULL.
+[2018.03.01-21.35.31:696][ 45]LogMaterial: Missing cached shader map for material M_PostProcess_Base, compiling. 
+[2018.03.01-21.35.31:697][ 45]LogMaterial: Warning: D:\Tyler\UE_SandboxOfCode\SandboxOfCode\Content\Effects\Sobel\M_PostProcess_Base.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.01-21.35.31:697][ 45]LogMaterial: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2018.03.01-21.35.31:718][ 45]LogAIModule: Creating AISystem for world Moving_Platforms
+[2018.03.01-21.35.31:741][ 45]Cmd: MAP LOAD FILE="D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Levels/Moving_Platforms.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.01-21.35.31:741][ 45]LightingResults: New page: Lighting Build
+[2018.03.01-21.35.31:741][ 45]LoadErrors: New page: Loading map: Moving_Platforms.umap
+[2018.03.01-21.35.31:742][ 45]MapCheck: New page: Map Check
+[2018.03.01-21.35.31:742][ 45]LightingResults: New page: Lighting Build
+[2018.03.01-21.35.31:754][ 45]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.01-21.35.31:790][ 45]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.01-21.35.31:834][ 45]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.445ms to complete.
+[2018.03.01-21.35.31:834][ 45]LogFileHelpers: Loading map 'Moving_Platforms' took 0.094
+[2018.03.01-21.35.31:841][ 45]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': Box_C /Game/Levels/Moving_Platforms.Moving_Platforms:PersistentLevel.Box_260
+[2018.03.01-21.35.31:841][ 45]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': Box_C /Game/Levels/Moving_Platforms.Moving_Platforms:PersistentLevel.Box_260
+[2018.03.01-21.35.31:841][ 45]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Platform_X1': Platform_X1_C /Game/Levels/Moving_Platforms.Moving_Platforms:PersistentLevel.Platform_X1_772
+[2018.03.01-21.35.31:841][ 45]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Platform_Y1': Platform_Y1_C /Game/Levels/Moving_Platforms.Moving_Platforms:PersistentLevel.Platform_Y1_508
+[2018.03.01-21.35.31:841][ 45]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Platform_Z': Platform_Z_C /Game/Levels/Moving_Platforms.Moving_Platforms:PersistentLevel.Platform_Z2
+[2018.03.01-21.35.31:841][ 45]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Platform_Z': Platform_Z_C /Game/Levels/Moving_Platforms.Moving_Platforms:PersistentLevel.Platform_Z3
+[2018.03.01-21.35.31:841][ 45]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Platform_Z': Platform_Z_C /Game/Levels/Moving_Platforms.Moving_Platforms:PersistentLevel.Platform_Z_824
+[2018.03.01-21.35.31:841][ 45]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0': Platform_X1_C /Game/Levels/Moving_Platforms.Moving_Platforms:PersistentLevel.Platform_X1_772
+[2018.03.01-21.35.31:841][ 45]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0': Platform_Y1_C /Game/Levels/Moving_Platforms.Moving_Platforms:PersistentLevel.Platform_Y1_508
+[2018.03.01-21.35.31:841][ 45]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0': Platform_Z_C /Game/Levels/Moving_Platforms.Moving_Platforms:PersistentLevel.Platform_Z2
+[2018.03.01-21.35.31:841][ 45]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0': Platform_Z_C /Game/Levels/Moving_Platforms.Moving_Platforms:PersistentLevel.Platform_Z3
+[2018.03.01-21.35.31:841][ 45]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0': Platform_Z_C /Game/Levels/Moving_Platforms.Moving_Platforms:PersistentLevel.Platform_Z_824
+[2018.03.01-21.35.33:917][272]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.01-21.35.33:959][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.01-21.35.33:959][272]PIE: New page: PIE session: Moving_Platforms (Mar 1, 2018, 7:35:33 AM)
+[2018.03.01-21.35.33:959][272]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Moving_Platforms
+[2018.03.01-21.35.33:965][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005408s)
+[2018.03.01-21.35.33:965][272]LogAIModule: Creating AISystem for world Moving_Platforms
+[2018.03.01-21.35.33:965][272]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2018.03.01-21.35.33:966][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Moving_Platforms.Moving_Platforms to /Game/Levels/UEDPIE_0_Moving_Platforms.Moving_Platforms (0.006533s)
+[2018.03.01-21.35.33:984][272]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-21.35.33:992][272]LogInit: FAudioDevice initialized.
+[2018.03.01-21.35.34:036][272]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.34:036][272]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Characters/Blueprints/SuperHotCharacter.uasset.
+[2018.03.01-21.35.34:036][272]LoadErrors: Error: /Game/Characters/Blueprints/SuperHotCharacter : Can't find file for asset. /Game/Blueprints/Box
+[2018.03.01-21.35.34:039][272]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.34:039][272]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Characters/Blueprints/SuperHotCharacter.uasset.
+[2018.03.01-21.35.34:039][272]LoadErrors: Error: /Game/Characters/Blueprints/SuperHotCharacter : Can't find file for asset. /Game/Effects/Sobel/SobelCollection
+[2018.03.01-21.35.34:039][272]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.34:039][272]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Characters/Blueprints/SuperHotCharacter.uasset.
+[2018.03.01-21.35.34:040][272]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.34:040][272]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Characters/Blueprints/SuperHotCharacter.uasset.
+[2018.03.01-21.35.34:041][272]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.34:042][272]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Characters/Blueprints/ThirdPersonGameMode.uasset.
+[2018.03.01-21.35.34:042][272]LoadErrors: Error: /Game/Characters/Blueprints/ThirdPersonGameMode : Can't find file for asset. /Game/Blueprints/Box
+[2018.03.01-21.35.34:042][272]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.34:042][272]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Characters/Blueprints/ThirdPersonGameMode.uasset.
+[2018.03.01-21.35.34:042][272]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.34:042][272]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Characters/Blueprints/ThirdPersonGameMode.uasset.
+[2018.03.01-21.35.34:042][272]LoadErrors: Error: /Game/Characters/Blueprints/ThirdPersonGameMode : Can't find file for asset. /Game/Effects/Sobel/SobelCollection
+[2018.03.01-21.35.34:042][272]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.34:042][272]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Characters/Blueprints/ThirdPersonGameMode.uasset.
+[2018.03.01-21.35.34:042][272]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.34:042][272]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Characters/Blueprints/ThirdPersonGameMode.uasset.
+[2018.03.01-21.35.34:049][272]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.34:049][272]LoadErrors: Failed to load /Game/Blueprints/Box.Box_C Referenced by K2Node_CallFunction_2750
+[2018.03.01-21.35.34:049][272]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Characters/Blueprints/ThirdPersonGameMode.uasset.
+[2018.03.01-21.35.34:049][272]LogLinker: Warning: Can't find file '/Game/Blueprints/Box'
+[2018.03.01-21.35.34:049][272]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Box' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Characters/Blueprints/ThirdPersonGameMode.uasset.
+[2018.03.01-21.35.34:051][272]LogLinker: Warning: Can't find file '/Game/Effects/Sobel/SobelCollection'
+[2018.03.01-21.35.34:051][272]LoadErrors: Failed to load /Game/Effects/Sobel/SobelCollection.SobelCollection Referenced by K2Node_CallMaterialParameterCollectionFunction_2
+[2018.03.01-21.35.34:052][272]LogLinker: Warning: Can't find file for asset '/Game/Effects/Sobel/SobelCollection' while loading D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Characters/Blueprints/ThirdPersonGameMode.uasset.
+[2018.03.01-21.35.34:110][272]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.01-21.35.34:113][272]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Moving_Platforms.Moving_Platforms up for play (max tick rate 0) at 2018.03.01-14.35.34
+[2018.03.01-21.35.34:113][272]LogWorld: Bringing up level for play took: 0.001621
+[2018.03.01-21.35.34:148][272]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.01-21.35.34:149][272]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Moving_Platforms 0.992
+[2018.03.01-21.35.37:926][720]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_0.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.37:926][720]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_0.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.38:125][744]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_1.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.38:125][744]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_1.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.38:325][768]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_2.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.38:326][768]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_2.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.38:526][792]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_3.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.38:526][792]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_3.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.38:726][816]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_4.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.38:726][816]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_4.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.38:909][838]PIE: Warning: Projectile_BP_C_3.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.38:925][840]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_5.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.38:926][840]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_5.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.39:084][859]PIE: Warning: Projectile_BP_C_4.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.39:126][864]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_6.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.39:126][864]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_6.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.39:234][877]PIE: Warning: Projectile_BP_C_5.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.39:325][888]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_7.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.39:325][888]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_7.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.39:526][912]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_8.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.39:526][912]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_8.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.39:726][936]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_9.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.39:726][936]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_9.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.39:926][960]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_10.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.39:926][960]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_10.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.40:125][984]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_11.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.40:126][984]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_11.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.40:326][  8]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_12.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.40:326][  8]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_12.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.40:375][ 14]PIE: Warning: Projectile_BP_C_11.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.40:526][ 32]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_13.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.40:526][ 32]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_13.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.40:726][ 56]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_14.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.40:726][ 56]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_14.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.40:926][ 80]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_15.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.40:926][ 80]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_15.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.41:125][104]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_16.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.41:125][104]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_16.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.41:326][128]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_17.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.41:326][128]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_17.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.41:525][152]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_18.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.41:525][152]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_18.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.41:726][176]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_19.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.41:726][176]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_19.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.41:926][200]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_20.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.41:926][200]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_20.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.42:126][224]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_21.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.42:126][224]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_21.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.42:317][247]PIE: Warning: Projectile_BP_C_21.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.42:326][248]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_22.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.42:326][248]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_22.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.42:526][272]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_23.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.42:526][272]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_23.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.42:626][284]PIE: Warning: Projectile_BP_C_22.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.42:726][296]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_24.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.42:726][296]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_24.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.42:834][309]PIE: Warning: Projectile_BP_C_23.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.42:926][320]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_25.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.42:926][320]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_25.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.43:126][344]PIE: Warning: Projectile_BP_C_24.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.43:126][344]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_26.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.43:126][344]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_26.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.43:326][368]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_27.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.43:326][368]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_27.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.43:526][392]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_28.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.43:526][392]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_28.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.43:726][416]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_29.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.43:726][416]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_29.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.43:926][440]PIE: Warning: Projectile_BP_C_28.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.43:926][440]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_30.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.43:926][440]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_30.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.44:117][463]PIE: Warning: Projectile_BP_C_29.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.44:126][464]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_31.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.44:126][464]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_31.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.44:326][488]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_32.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.44:326][488]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_32.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.44:334][489]PIE: Warning: Projectile_BP_C_30.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.44:526][512]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_33.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.44:526][512]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_33.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.44:726][536]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_34.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.44:726][536]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_34.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.44:926][560]PIE: Warning: Projectile_BP_C_33.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.44:926][560]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_35.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.44:926][560]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_35.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.45:076][578]PIE: Warning: Projectile_BP_C_34.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.45:076][578]PIE: Warning: Projectile_BP_C_34.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.45:126][584]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_36.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.45:126][584]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_36.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.45:201][593]PIE: Warning: Projectile_BP_C_35.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.45:326][608]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_37.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.45:326][608]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_37.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.45:526][632]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_38.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.45:526][632]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_38.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.45:726][656]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_39.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.45:726][656]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_39.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.45:926][680]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_40.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.45:926][680]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_40.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.46:126][704]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_41.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.46:126][704]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_41.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.46:326][728]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_42.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.46:326][728]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_42.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.46:526][752]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_43.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.46:526][752]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_43.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.46:726][776]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_44.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.46:726][776]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_44.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.46:926][800]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_45.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.46:926][800]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_45.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.47:101][821]PIE: Warning: Projectile_BP_C_44.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.47:126][824]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_46.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.47:126][824]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_46.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.47:326][848]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_47.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.47:326][848]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_47.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.47:418][859]PIE: Warning: Projectile_BP_C_46.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.47:526][872]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_48.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.47:526][872]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_48.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.47:701][893]PIE: Warning: Projectile_BP_C_47.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.47:726][896]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_49.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.47:726][896]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_49.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.47:926][920]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_50.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.47:926][920]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_50.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.48:126][944]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_51.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.48:127][944]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_51.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.48:326][968]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_52.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.48:326][968]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_52.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.48:526][992]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_53.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.48:526][992]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_53.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.50:493][228]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_54.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.50:493][228]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_54.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.50:693][252]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_55.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.50:693][252]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_55.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.50:893][276]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_56.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.50:893][276]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_56.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.57:460][ 64]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_57.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.57:460][ 64]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_57.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.57:660][ 88]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_58.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.57:660][ 88]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_58.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.57:860][112]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_59.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.57:860][112]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_59.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.58:060][136]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_60.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.58:060][136]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_60.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.58:260][160]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_61.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.58:260][160]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_61.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.58:460][184]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_62.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.58:460][184]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_62.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.58:535][193]PIE: Warning: Projectile_BP_C_61.Collision Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.03.01-21.35.58:660][208]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_63.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.58:660][208]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_63.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.58:860][232]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_64.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.58:860][232]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_64.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.59:060][256]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_65.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.59:060][256]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_65.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.59:260][280]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_66.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.59:260][280]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_66.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.59:460][304]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_67.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.59:460][304]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_67.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.59:660][328]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_68.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.59:660][328]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_68.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.59:860][352]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_69.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.35.59:860][352]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_69.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.00:060][376]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_70.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.00:061][376]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_70.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.00:260][400]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_71.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.00:260][400]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_71.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.43:676][599]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.01-21.36.43:694][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.01-21.36.43:694][599]PIE: New page: PIE session: Moving_Platforms (Mar 1, 2018, 7:36:43 AM)
+[2018.03.01-21.36.43:694][599]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Moving_Platforms
+[2018.03.01-21.36.43:699][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004884s)
+[2018.03.01-21.36.43:700][599]LogAIModule: Creating AISystem for world Moving_Platforms
+[2018.03.01-21.36.43:700][599]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2018.03.01-21.36.43:700][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Moving_Platforms.Moving_Platforms to /Game/Levels/UEDPIE_0_Moving_Platforms.Moving_Platforms (0.006094s)
+[2018.03.01-21.36.43:719][599]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2018.03.01-21.36.43:725][599]LogInit: FAudioDevice initialized.
+[2018.03.01-21.36.43:759][599]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.01-21.36.43:760][599]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Moving_Platforms.Moving_Platforms up for play (max tick rate 0) at 2018.03.01-14.36.43
+[2018.03.01-21.36.43:761][599]LogWorld: Bringing up level for play took: 0.001042
+[2018.03.01-21.36.43:761][599]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Moving_Platforms 0.605
+[2018.03.01-21.36.49:461][279]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_0.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.49:461][279]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_0.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.49:662][303]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_1.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.49:662][303]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_1.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.49:861][327]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_2.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.49:861][327]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_2.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.50:061][351]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_3.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.50:061][351]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_3.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.50:262][375]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_4.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.50:262][375]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_4.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.50:461][399]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_5.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.50:461][399]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_5.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.50:662][423]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_6.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.50:662][423]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_6.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.50:862][447]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_7.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.50:862][447]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_7.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.51:062][471]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_8.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.51:062][471]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_8.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.51:261][495]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_9.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.51:261][495]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_9.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.51:461][519]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_10.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.51:461][519]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_10.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.51:661][543]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_11.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.51:661][543]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_11.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.51:862][567]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_12.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.51:862][567]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_12.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.52:062][591]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_13.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.52:062][591]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_13.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.52:261][615]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_14.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.52:261][615]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_14.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.52:462][639]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_15.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.52:462][639]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_15.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.52:661][663]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_16.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.52:661][663]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_16.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.52:862][687]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_17.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.52:862][687]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_17.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.53:062][711]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_18.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.53:062][711]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_18.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.53:261][735]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_19.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.53:261][735]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_19.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.53:461][759]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_20.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.53:462][759]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_20.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.53:661][783]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_21.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.53:662][783]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_21.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.53:862][807]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_22.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.53:862][807]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_22.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.54:062][831]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_23.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.54:062][831]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_23.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.54:262][855]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_24.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.54:262][855]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_24.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.54:462][879]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_25.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.54:462][879]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_25.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.54:662][903]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_26.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.54:662][903]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_26.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.54:862][927]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_27.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.54:862][927]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_27.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.55:062][951]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_28.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.55:062][951]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_28.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.55:262][975]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_29.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.55:262][975]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_29.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.55:462][999]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_30.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.55:462][999]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_30.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.55:662][ 23]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_31.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.55:662][ 23]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_31.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.55:862][ 47]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_32.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.55:862][ 47]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_32.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.56:062][ 71]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_33.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.56:062][ 71]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_33.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.56:262][ 95]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_34.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.56:262][ 95]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_34.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.56:462][119]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_35.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.56:462][119]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_35.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.58:087][314]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_36.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.58:087][314]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_36.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.58:479][361]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_37.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.36.58:479][361]PIE: Warning: Invalid Simulate Options: Body (Projectile_BP_C_37.Collision Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2018.03.01-21.37.09:762][685]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.01-21.37.09:924][686]Cmd: QUIT_EDITOR
+[2018.03.01-21.37.10:907][686]LogExit: Preparing to exit.
+[2018.03.01-21.37.11:612][686]LogExit: Editor shut down
+[2018.03.01-21.37.11:614][686]LogExit: Transaction tracking system shut down
+[2018.03.01-21.37.11:691][686]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.01-21.37.11:691][686]LogDirectoryWatcher: A directory notification for 'D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/' was aborted.
+[2018.03.01-21.37.11:691][686]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.01-21.37.11:691][686]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.01-21.37.11:691][686]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.01-21.37.11:691][686]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.01-21.37.11:691][686]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.01-21.37.11:725][686]LogExit: Object subsystem successfully closed.
+[2018.03.01-21.37.11:746][686]LogD3D11RHI: Shutdown
+[2018.03.01-21.37.11:746][686]LogD3D11RHI: CleanupD3DDevice
+[2018.03.01-21.37.11:747][686]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.01-21.37.11:759][686]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.03.01-21.37.11:759][686]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.03.01-21.37.11:759][686]LogModuleManager: Shutting down and abandoning module SceneOutliner (550)
+[2018.03.01-21.37.11:759][686]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
+[2018.03.01-21.37.11:759][686]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.01-21.37.11:759][686]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
+[2018.03.01-21.37.11:759][686]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
+[2018.03.01-21.37.11:759][686]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
+[2018.03.01-21.37.11:759][686]LogDirectoryWatcher: A directory notification for 'D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Collections/' was aborted.
+[2018.03.01-21.37.11:759][686]LogDirectoryWatcher: A directory notification for 'D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Content/Developers/Tyler/Collections/' was aborted.
+[2018.03.01-21.37.11:759][686]LogDirectoryWatcher: A directory notification for 'D:/Tyler/UE_SandboxOfCode/SandboxOfCode/Saved/Collections/' was aborted.
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module StatsViewer (540)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module FoliageEdit (538)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module LandscapeEditor (536)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module MeshPaintMode (534)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (532)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module ActorPickerMode (530)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module GeometryMode (528)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module TextureAlignMode (526)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module BspMode (524)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (522)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module HardwareSurvey (520)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (518)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module AutomationWorker (516)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (514)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (512)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module PlacementMode (511)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (508)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (506)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (504)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (502)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (500)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (498)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (496)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (494)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (492)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module CharacterAI (490)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module AudioCapture (488)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module SequenceRecorder (487)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module SmartSnapping (484)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module SessionServices (482)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module ViewportSnapping (480)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module ViewportInteraction (478)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module ClothPainter (476)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (475)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module LogVisualizer (472)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module IntroTutorials (470)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (469)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (466)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (464)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (462)
+[2018.03.01-21.37.11:760][686]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (461)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (458)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (456)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (454)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module InputBindingEditor (452)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module MergeActors (450)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module SizeMap (448)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module TreeMap (446)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module ReferenceViewer (444)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (442)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module LocalizationService (441)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module HardwareTargeting (438)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (436)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module UndoHistory (434)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module XmlParser (432)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module Blutility (430)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (428)
+[2018.03.01-21.37.12:006][686]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (427)
+[2018.03.01-21.37.12:007][686]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (424)
+[2018.03.01-21.37.12:007][686]LogModuleManager: Shutting down and abandoning module SettingsEditor (422)
+[2018.03.01-21.37.12:007][686]LogModuleManager: Shutting down and abandoning module ProjectLauncher (420)
+[2018.03.01-21.37.12:007][686]LogModuleManager: Shutting down and abandoning module SessionFrontend (418)
+[2018.03.01-21.37.12:007][686]LogModuleManager: Shutting down and abandoning module ProfilerClient (416)
+[2018.03.01-21.37.12:007][686]LogModuleManager: Shutting down and abandoning module DeviceManager (414)
+[2018.03.01-21.37.12:007][686]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (413)
+[2018.03.01-21.37.12:060][686]LogModuleManager: Shutting down and abandoning module AutomationController (410)
+[2018.03.01-21.37.12:060][686]LogModuleManager: Shutting down and abandoning module AutomationWindow (408)
+[2018.03.01-21.37.12:060][686]LogModuleManager: Shutting down and abandoning module Layers (406)
+[2018.03.01-21.37.12:060][686]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (404)
+[2018.03.01-21.37.12:060][686]LogModuleManager: Shutting down and abandoning module DetailCustomizations (402)
+[2018.03.01-21.37.12:060][686]LogModuleManager: Shutting down and abandoning module PackagesDialog (400)
+[2018.03.01-21.37.12:060][686]LogModuleManager: Shutting down and abandoning module Persona (398)
+[2018.03.01-21.37.12:060][686]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (397)
+[2018.03.01-21.37.12:060][686]LogModuleManager: Shutting down and abandoning module AnimGraph (395)
+[2018.03.01-21.37.12:060][686]LogModuleManager: Shutting down and abandoning module Kismet (392)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module ClassViewer (390)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module Toolbox (388)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module ModuleUI (386)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module MovieSceneTools (384)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module OutputLog (382)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module GammaUI (380)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module Documentation (378)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (376)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module MovieScene (374)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (372)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module LauncherPlatform (370)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module AnalyticsET (368)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module PortalServices (366)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module PortalRpc (364)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module MessagingRpc (362)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module AIModule (360)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module GameplayDebugger (359)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module AITestSuite (357)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module DesktopPlatform (354)
+[2018.03.01-21.37.12:061][686]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2018.03.01-21.37.12:297][686]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2018.03.01-21.37.12:298][686]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2018.03.01-21.37.12:298][686]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2018.03.01-21.37.12:298][686]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2018.03.01-21.37.12:298][686]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2018.03.01-21.37.12:298][686]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2018.03.01-21.37.12:298][686]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2018.03.01-21.37.12:298][686]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2018.03.01-21.37.12:298][686]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2018.03.01-21.37.12:298][686]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2018.03.01-21.37.12:298][686]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2018.03.01-21.37.12:298][686]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2018.03.01-21.37.12:298][686]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2018.03.01-21.37.12:298][686]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2018.03.01-21.37.12:298][686]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2018.03.01-21.37.12:299][686]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2018.03.01-21.37.12:299][686]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2018.03.01-21.37.12:299][686]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2018.03.01-21.37.12:299][686]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (272)
+[2018.03.01-21.37.12:299][686]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (270)
+[2018.03.01-21.37.12:299][686]LogModuleManager: Shutting down and abandoning module PhysXVehicles (268)
+[2018.03.01-21.37.12:299][686]LogModuleManager: Shutting down and abandoning module OculusEditor (266)
+[2018.03.01-21.37.12:299][686]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (264)
+[2018.03.01-21.37.12:299][686]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (262)
+[2018.03.01-21.37.12:299][686]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (260)
+[2018.03.01-21.37.12:299][686]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (258)
+[2018.03.01-21.37.12:299][686]LogModuleManager: Shutting down and abandoning module ApexDestruction (256)
+[2018.03.01-21.37.12:299][686]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.01-21.37.12:400][686]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.01-21.37.12:547][686]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.01-21.37.12:547][686]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.01-21.37.12:547][686]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.01-21.37.12:547][686]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.01-21.37.12:547][686]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.01-21.37.12:547][686]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.01-21.37.12:548][686]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.01-21.37.12:548][686]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.01-21.37.12:548][686]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.01-21.37.12:548][686]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.01-21.37.12:550][686]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.01-21.37.12:550][686]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.01-21.37.12:550][686]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.01-21.37.12:550][686]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.01-21.37.12:550][686]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.01-21.37.12:550][686]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.01-21.37.12:556][686]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.01-21.37.12:558][686]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.01-21.37.12:558][686]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.01-21.37.12:558][686]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.01-21.37.12:558][686]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.01-21.37.12:558][686]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.01-21.37.12:558][686]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.01-21.37.12:558][686]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.01-21.37.12:558][686]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.01-21.37.12:559][686]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.01-21.37.12:559][686]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.01-21.37.12:559][686]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.01-21.37.12:559][686]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.01-21.37.12:559][686]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.01-21.37.12:559][686]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.01-21.37.12:559][686]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.01-21.37.12:559][686]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.01-21.37.12:559][686]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.01-21.37.12:580][686]LogDerivedDataCache: Shutdown
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.01-21.37.12:580][686]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.01-21.37.12:581][686]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.01-21.37.12:581][686]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.01-21.37.12:581][686]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B801DA7CA-44BA-1F2C-0107-3CA69D3DE1BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=f421941c42eb45885b0faa9fa83eed35%7C3e2764f06f1947f5925efc0e892ed179%7Ce1988d8e-e2ad-458c-8785-0337dcecac2e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.01-21.37.12:600][686]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.01-21.37.12:601][686]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.01-21.37.12:601][686]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.01-21.37.12:601][686]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.01-21.37.12:601][686]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.01-21.37.12:601][686]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.01-21.37.12:601][686]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.01-21.37.12:602][686]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.01-21.37.12:602][686]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.01-21.37.12:602][686]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.01-21.37.12:602][686]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.01-21.37.12:602][686]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.01-21.37.12:602][686]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.01-21.37.12:602][686]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.01-21.37.12:602][686]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.01-21.37.12:602][686]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.01-21.37.12:602][686]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.01-21.37.12:602][686]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.01-21.37.12:602][686]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.01-21.37.12:605][686]LogExit: Exiting.
+[2018.03.01-21.37.12:619][686]Log file closed, 03/01/18 14:37:12
